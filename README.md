@@ -28,4 +28,4 @@ This project is an early Python learning exercise and is intentionally simple. I
 
 ## Author
 Jameel Shaikh  
-Master of Finance | Python & Data Analytics
+Quantitative Finance | Risk Analytics
